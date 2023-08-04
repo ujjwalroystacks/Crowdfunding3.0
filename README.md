@@ -2,7 +2,7 @@ Tech stack used:-
 
 - Metamask
 - Hardhat
-- Infuria
+- Alchemy
 - ReactJs
 - Tailwind CSS
 - CometChat
