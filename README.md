@@ -1,4 +1,4 @@
-# How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat
+ How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat
 
 Read the full tutorial here: [**>> How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat**](https://daltonic.github.io)
 
@@ -53,14 +53,3 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/ge
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
-- ⚽ [Metamask](https://metamask.io/)
-- 🚀 [Remix Editor](https://remix.ethereum.org/)
-- 💡 [Hardhat](https://hardhat.org/)
-- 📈 [Infuria](https://infura.io/)
-- 🔥 [ReactJs](https://reactjs.org/)
-- 🐻 [Solidity](https://soliditylang.org/)
-- 👀 [EthersJs](https://docs.ethers.io/v5/)
-- 🎅 [Faucet](https://faucets.chain.link/rinkeby)
-- 🤖 [CometChat](https://cometchat.com/)
-- ✨ [Live Demo](https://genesis-45443.web.app/)
